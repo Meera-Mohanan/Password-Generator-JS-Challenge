@@ -8,12 +8,7 @@ then the password is displayed to the page.
 * The URL of the GitHub repository, with a unique name and a readme describing the project:https://github.com/Meera-Mohanan/Password-Generator-JS-Challenge.git
 
 Screenshot
+![Screenshot 2023-04-06 175936](https://user-images.githubusercontent.com/126405858/230344239-ba727035-0d55-42c4-b060-a82b4a7c1e53.png)
 
 
-![Screenshot 2023-04-05 233732](https://user-images.githubusercontent.com/126405858/230132688-32e37aa5-298a-4946-918a-766d5a35feca.png)
-![Screenshot 2023-04-05 233745](https://user-images.githubusercontent.com/126405858/230132736-d3a91816-de3c-4137-a144-0371dafa6cac.png)
-![Screenshot 2023-04-05 233822](https://user-images.githubusercontent.com/126405858/230132794-010ade82-19b2-483b-b677-f5d7cc26d3a1.png)
-![Screenshot 2023-04-05 233831](https://user-images.githubusercontent.com/126405858/230132821-60a18dec-3520-4bda-a94d-2bf6411600df.png)
-![Screenshot 2023-04-05 233839](https://user-images.githubusercontent.com/126405858/230132842-ce812dac-a390-45e3-b228-b98f1290988f.png)
-![Screenshot 2023-04-05 233849](https://user-images.githubusercontent.com/126405858/230132868-f3672687-ac44-4444-b2a9-0099192b8df5.png)
-![Screenshot 2023-04-05 233857](https://user-images.githubusercontent.com/126405858/230132887-48482b70-06d3-4389-93ae-5f55b7854e0f.png)
+![Screenshot 2023-04-06 180203](https://user-images.githubusercontent.com/126405858/230344819-ecf74d21-221b-4165-b56f-1359addc07c1.png)
